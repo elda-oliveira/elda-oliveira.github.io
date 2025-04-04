@@ -1,11 +1,3 @@
-title: "HaruNear's Blog"
-description: "Writeups e desafios de segurança cibernética"
-baseurl: "" # Deixe vazio para um site raiz
-url: "https://harucode.github.io" # Coloque seu domínio do GitHub Pages
-
-theme: minima # Ou outro tema que você preferir
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-markdown: kramdown
+title: "Helda's Writeups"
+description: "Meus desafios em Cibersegurança - TryHackMe, Hack The Box e mais"
+theme: jekyll-theme-cayman
