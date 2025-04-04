@@ -3,21 +3,31 @@ layout: default
 title: Sobre
 ---
 
-# Olá, eu sou a Helda 🌸
+# Sobre Mim 👩‍💻
 
-Sou apaixonada por segurança cibernética e estou sempre explorando novas formas de aprender e evoluir. Neste blog, compartilho meus **writeups**, **estudos**, desafios resolvidos no **TryHackMe**, **Hack The Box** e outras plataformas voltadas para o aprendizado prático em segurança da informação.
+Olá! Meu nome é **Helda Oliveira Paz**, e este é meu blog onde compartilho desafios e soluções que encontro no mundo da Cibersegurança.
 
-Sinta-se à vontade para explorar, aprender junto e, quem sabe, colaborar! 🚀
+Sou apaixonada por tecnologia e segurança da informação. Atualmente estudo e pratico em plataformas como:
+
+- TryHackMe
+- Hack The Box
+- Let's Defend
+- Hack The Boo
+- e outras comunidades técnicas!
+
+Participo de CTFs, laboratórios técnicos e estudo diariamente sobre ameaças, defesa, análise forense e inteligência de ameaças (Threat Intelligence).
 
 ---
 
-## Contato
+## 📚 Certificações & Experiências
 
-📧 **Email:** helderahack@example.com  
-🔗 [TryHackMe](https://tryhackme.com/)  
-🔗 [Hack The Box](https://www.hackthebox.com/)  
-🔗 [GitHub](https://github.com/elda-oliveira)
+- Cybersecurity Essentials – Cisco
+- CyberOps Associate – Cisco
+- Foundation Level Threat Intelligence Analyst – arcX
+- CCNA: Introduction to Networks – Cisco
+- TryHackMe – Introduction to Cyber Security
+- Experiência prática em HTB, TryHackMe, WTC e Let's Defend
 
 ---
 
-> *“Aprender é um processo constante. O importante é não parar.”*
+Sinta-se à vontade para me seguir, entrar em contato ou trocar experiências! 😊
