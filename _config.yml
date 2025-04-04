@@ -1,3 +1,4 @@
-title: "Helda's Writeups"
-description: "Meus desafios em Cibersegurança - TryHackMe, Hack The Box e mais"
+title: Helda's Writeups
+description: "Estudos em Cibersegurança: TryHackMe, Hack The Box e mais"
 theme: jekyll-theme-cayman
+navigation: _navigation.yml
